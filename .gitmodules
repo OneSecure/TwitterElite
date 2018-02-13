@@ -1,0 +1,3 @@
+[submodule "FHSTwitterEngine"]
+	path = FHSTwitterEngine
+	url = https://github.com/fhsjaagshs/FHSTwitterEngine.git
